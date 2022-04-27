@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Best Site Ever</title><link>https://tjohander-splunk.github.io/</link><description>Recent content on Best Site Ever</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 10:50:54 -0500</lastBuildDate><atom:link href="https://tjohander-splunk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating a Blog With Hugo</title><link>https://tjohander-splunk.github.io/post/creating-a-blog-with-hugo/</link><pubDate>Wed, 27 Apr 2022 10:50:54 -0500</pubDate><guid>https://tjohander-splunk.github.io/post/creating-a-blog-with-hugo/</guid><description>Hugo Steps Follow Guidance at https://pages.github.com/ Create a GH Pages Repo
+Follow the Steps.
+Hit your new page: Not very interesting.
+Update the Permissions in Github Actions
+Remove that boring index.html:
+rm index.html Create a new Hugo Site hugo new site . --force
+Add a Theme
+Head to themes.hugo.io Pick Blogs -&amp;gt; Anake git submodule add https://github.</description></item></channel></rss>
