@@ -1,9 +1,10 @@
 ---
-title: "Creating a Blog With Hugo"
+title: "Creating & Publishing Github-hosted Blog With Hugo"
 date: 2022-04-27T10:50:54-05:00
 draft: false
 ---
-How to create your own personal Blog with Hugo and Github Pages
+For my first post, I'd like to teach anyone how to create an attractive, professional Blog with minimal technical skills.  Once things are set up, adding content is as simple as creating a Markdown files and pushing to Github.
+
 
 ## Initial Setup of Github Pages Hosting Feature
 
