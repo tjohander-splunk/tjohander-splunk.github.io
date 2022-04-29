@@ -1,0 +1,5 @@
+baseURL = 'https://tjohander-splunk.github.io'
+languageCode = 'en-us'
+title = "Tom's Splunk Blog"
+theme = "hugo-theme-cleanwhite"
+publishDir = './'

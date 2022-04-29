@@ -1,0 +1,7 @@
+baseUrl: 'https://tjohander-splunk.github.io'
+languageCode: 'en-us'
+title: "Tom's Splunk Blog"
+theme: "hugo-theme-cleanwhite"
+publishDir: './'
+params:
+  header_image: 'https://www.splunk.com/content/dam/splunk2/en_us/images/background/universal/ender-bkgd-gradient-desktop.jpg'
