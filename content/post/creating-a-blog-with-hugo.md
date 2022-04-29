@@ -2,9 +2,10 @@
 title: "Creating & Publishing Github-hosted Blog With Hugo"
 date: 2022-04-27T10:50:54-05:00
 draft: false
+description: "For my first post, I'd like to teach anyone how to create an attractive, professional Blog with minimal technical skills.  Once things are set up, adding content is as simple as creating a Markdown files and pushing to Github."
 ---
-For my first post, I'd like to teach anyone how to create an attractive, professional Blog with minimal technical skills.  Once things are set up, adding content is as simple as creating a Markdown files and pushing to Github.
 
+Here's how to make a simple, attractive and expressive blog to convey your ideas with a personal blog, hosted on Github Pages.
 
 ## Initial Setup of Github Pages Hosting Feature
 
