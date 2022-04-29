@@ -89,23 +89,26 @@ jobs:
           publish_branch: gh-pages
 ```
 
-## Resources
+## Resources For Further Reading
 
-### External
-https://gohugo.io
-https://gohugo.io/getting-started/quick-start/
-https://themes.gohugo.io/
+### Hugo Documentation
+* https://gohugo.io
+* https://gohugo.io/getting-started/quick-start/
+* https://themes.gohugo.io/
 
-https://pages.github.com/
-https://docs.github.com/en/actions/using-workflows/about-workflows
-https://docs.github.com/en/get-started/writing-on-github/https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+### Github Pages, Github Actions and Markdown
+* https://pages.github.com/
+* https://docs.github.com/en/actions/using-workflows/about-workflows
+* https://docs.github.com/en/get-started/writing-on-github/
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-### Splunk Examples
-https://leungsteve.github.io/realtime_enrichment/
-https://signalfx.github.io/observability-workshop/latest/
+### Internal Splunk Examples of Hugo in Action
+* https://leungsteve.github.io/realtime_enrichment/
+* https://signalfx.github.io/observability-workshop/latest/
 
-### Docsy Theme
-https://kubernetes.io/docs/home/
+### A Famous Example of the "Docsy" Theme
+* https://kubernetes.io/docs/home/
+* https://themes.gohugo.io/themes/docsy/
 
 
 
