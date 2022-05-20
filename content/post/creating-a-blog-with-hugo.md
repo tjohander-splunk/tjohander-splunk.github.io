@@ -55,6 +55,7 @@ These steps are covered in more detail [here](https://pages.github.com/), but to
     - `git add --all`
     - `git commit -m <some helpful message about this commit>`
     - `git push`
+19. Your site will be rebuilt and your new content should show up as soon as the Github action completes.
 
 
 ## Github Actions Workflow Config
