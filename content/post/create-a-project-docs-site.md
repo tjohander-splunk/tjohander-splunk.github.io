@@ -9,7 +9,7 @@ tags:        ["tag1", "tag2"]
 categories:  ["Tech" ]
 ---
 
-It's just as easy to create a Project-based docs site with Github Pages and Hugo.  Following the guidance in my [first post](../creating-a-blog-with-hugo.md), there are just a few modifications we'll need to make.
+It's just as easy to create a Project-based docs site with Github Pages and Hugo.  Following the guidance in my [first post]({{< ref "/post/creating-a-blog-with-hugo.md" >}}), there are just a few modifications we'll need to make.
 
 The URL for your project will be `https://<USERNAME|ORGANIZATION>.github.io/<PROJECT>/`
 
